@@ -1,11 +1,11 @@
-# AI4Health Summer School 2025 - Practical Session on Diffusion Models
+# ISBI 2026 - Practical Session on Diffusion Models
 
 | **[Abstract](#abstract)**
 | **[Links](#links)**
 | **[Table of Content](#table-of-content)**
 | **[Diagram](#diagram)**
 
-This is the Git repository for the practical session on diffusion models for the 2025 edition of the AI4Health Summer School.
+This is the Git repository for the practical session on diffusion models for the 2026 ISBI tutorials.
 
 **Authors**: Hugues Roy, Maelys Solal, Ninon Burgos
 
